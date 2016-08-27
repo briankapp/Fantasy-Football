@@ -1,0 +1,11 @@
+NFC 1	And I'm All Out Of Bubblegum
+NFC 2	Lack Is Back
+NFC 3	Poppa Kapp
+NFC 4	Polk High Panthers
+NFC 5	The Jokers
+AFC 1	The Jerminator
+AFC 2	Chow man
+AFC 3	Shaggy Dew
+AFC 4	Pack Attack
+AFC 5	The Headless Norsemen
+
